@@ -1,0 +1,5 @@
+{
+  "name": "StaffSync AI",
+  "description": "A modern SaaS platform for managing and hiring household staff. Features AI-powered resume extraction, intelligent candidate matching via chat, and automated documentation workflows.",
+  "requestFramePermissions": []
+}
